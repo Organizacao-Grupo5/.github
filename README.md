@@ -38,4 +38,4 @@ Visual Ops é uma solução de monitoramento que fornece informações detalhada
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/visual-ops.git
+   git clone https://github.com/Organizacao-Grupo5/app_client.git
